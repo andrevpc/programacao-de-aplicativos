@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\disrct\\Desktop\\André\\PA\\PA.csproj": {}
+    "C:\\Users\\disrct\\Desktop\\André\\windows-forms\\aula1\\Dvd\\PA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\disrct\\Desktop\\André\\PA\\PA.csproj": {
+    "C:\\Users\\disrct\\Desktop\\André\\windows-forms\\aula1\\Dvd\\PA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\disrct\\Desktop\\André\\PA\\PA.csproj",
+        "projectUniqueName": "C:\\Users\\disrct\\Desktop\\André\\windows-forms\\aula1\\Dvd\\PA.csproj",
         "projectName": "PA",
-        "projectPath": "C:\\Users\\disrct\\Desktop\\André\\PA\\PA.csproj",
+        "projectPath": "C:\\Users\\disrct\\Desktop\\André\\windows-forms\\aula1\\Dvd\\PA.csproj",
         "packagesPath": "C:\\Users\\disrct\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\disrct\\Desktop\\André\\PA\\obj\\",
+        "outputPath": "C:\\Users\\disrct\\Desktop\\André\\windows-forms\\aula1\\Dvd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\disrct\\AppData\\Roaming\\NuGet\\NuGet.Config",

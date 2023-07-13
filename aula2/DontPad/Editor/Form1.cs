@@ -12,8 +12,10 @@ using System.Windows.Forms;
 
 namespace Editor
 {
+
     public partial class Form1 : Form
     {
+
         public Form1()
         {
             InitializeComponent();
@@ -31,7 +33,7 @@ namespace Editor
 
         private void zoomInToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            rtbTexto.ZoomFactor += 1f;
         }
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)
@@ -98,6 +100,38 @@ namespace Editor
             colorDialog.ShowDialog();
 
             rtbTexto.SelectionColor = colorDialog.Color;
+        }
+
+        private void zoomOutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            rtbTexto.ZoomFactor -= 1f;
+        }
+
+        private void restoreDefaultZoomToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            rtbTexto.ZoomFactor = 1;
+        }
+
+        private void printToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            PrintDialog printDialog = new PrintDialog();
+
+            printDialog.ShowDialog();
+        }
+
+        private void pageSetupToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            PageSetupDialog pageSetupDialog = new PageSetupDialog();
+
+            pageSetupDialog.ShowDialog();
+        }
+
+        private void wordWrapToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (rtbTexto.WordWrap == true)
+                rtbTexto.WordWrap = false;
+            else
+                rtbTexto.WordWrap = true;
         }
     }
 }

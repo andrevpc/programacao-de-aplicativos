@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\André\windows-forms\aula3\Arrastar\bin\Debug\net7.0-windows\Arrastar.exe
+C:\Users\disrct\Desktop\André\windows-forms\aula3\Arrastar\bin\Debug\net7.0-windows\Arrastar.deps.json
+C:\Users\disrct\Desktop\André\windows-forms\aula3\Arrastar\bin\Debug\net7.0-windows\Arrastar.runtimeconfig.json
+C:\Users\disrct\Desktop\André\windows-forms\aula3\Arrastar\bin\Debug\net7.0-windows\Arrastar.dll
+C:\Users\disrct\Desktop\André\windows-forms\aula3\Arrastar\bin\Debug\net7.0-windows\Arrastar.pdb
+C:\Users\disrct\Desktop\André\windows-forms\aula3\Arrastar\obj\Debug\net7.0-windows\Arrastar.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\André\windows-forms\aula3\Arrastar\obj\Debug\net7.0-windows\Arrastar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\André\windows-forms\aula3\Arrastar\obj\Debug\net7.0-windows\Arrastar.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\André\windows-forms\aula3\Arrastar\obj\Debug\net7.0-windows\Arrastar.AssemblyInfo.cs
+C:\Users\disrct\Desktop\André\windows-forms\aula3\Arrastar\obj\Debug\net7.0-windows\Arrastar.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\André\windows-forms\aula3\Arrastar\obj\Debug\net7.0-windows\Arrastar.dll
+C:\Users\disrct\Desktop\André\windows-forms\aula3\Arrastar\obj\Debug\net7.0-windows\refint\Arrastar.dll
+C:\Users\disrct\Desktop\André\windows-forms\aula3\Arrastar\obj\Debug\net7.0-windows\Arrastar.pdb
+C:\Users\disrct\Desktop\André\windows-forms\aula3\Arrastar\obj\Debug\net7.0-windows\Arrastar.genruntimeconfig.cache
+C:\Users\disrct\Desktop\André\windows-forms\aula3\Arrastar\obj\Debug\net7.0-windows\ref\Arrastar.dll
