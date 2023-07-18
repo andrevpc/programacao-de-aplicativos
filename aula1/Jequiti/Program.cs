@@ -7,7 +7,7 @@ ApplicationConfiguration.Initialize();
 var form = new Form();
 form.WindowState = FormWindowState.Maximized;
 form.FormBorderStyle = FormBorderStyle.None;
-
+//aa
 PictureBox pb = new PictureBox();
 pb.Dock = DockStyle.Fill;
 pb.Image = Image.FromFile("jequiti.jpg");
